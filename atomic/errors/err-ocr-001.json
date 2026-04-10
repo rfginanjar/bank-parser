@@ -1,0 +1,6 @@
+{
+  "key": "ERR-OCR-001",
+  "value": "OCR extraction failed",
+  "environment": "all",
+  "sensitive": false
+}

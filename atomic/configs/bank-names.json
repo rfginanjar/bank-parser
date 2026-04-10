@@ -1,0 +1,6 @@
+{
+  "key": "BANK_NAMES",
+  "value": ["BCA","Mandiri","BNI","BRI"],
+  "environment": "all",
+  "sensitive": false
+}

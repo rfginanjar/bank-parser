@@ -1,0 +1,6 @@
+{
+  "key": "ERR-VAL-001",
+  "value": "Validation timeout",
+  "environment": "all",
+  "sensitive": false
+}

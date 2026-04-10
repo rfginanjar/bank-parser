@@ -1,0 +1,6 @@
+{
+  "key": "TRANSACTION_TYPES",
+  "value": ["Debit","Credit"],
+  "environment": "all",
+  "sensitive": false
+}

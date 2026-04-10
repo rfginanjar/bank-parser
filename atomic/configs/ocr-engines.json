@@ -1,0 +1,6 @@
+{
+  "key": "OCR_ENGINES",
+  "value": ["textract","tesseract"],
+  "environment": "all",
+  "sensitive": false
+}

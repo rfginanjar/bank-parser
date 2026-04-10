@@ -1,0 +1,6 @@
+{
+  "key": "SPENDING_CATEGORIES",
+  "value": ["Food","Transport","Transfer","Shopping","Entertainment","Bills","Salary","Other"],
+  "environment": "all",
+  "sensitive": false
+}
